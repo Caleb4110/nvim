@@ -1,6 +1,6 @@
 # kickstart.nvim
 
-The config I use for neovim. It's heavily based on the kickstart.nvimconfiguration, so the rest of this readme is the readme for kickstart
+The config I use for neovim. It's heavily based on the kickstart.nvim configuration, so the rest of this readme is the readme for kickstart
 
 ## Introduction
 
